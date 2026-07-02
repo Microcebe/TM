@@ -9,10 +9,8 @@ fondements mathématiques nécessaires à la compréhension des réseaux en
 présentant notamment des notions d’algèbre linéaire et de calcul différentiel.
 Ensuite, la partie expérimentale est divisée en trois catégories de modèles :
 les Multilayer Perceptron (MLP), les Convolutional Neural Network (CNN) et
-les Generative Adversarial Network (GAN). Les modèles sont présentés théori-
-quement puis entraînés et évalués sur des bases de données telles que MNIST,
-CIFAR ou CELEB-A. Lors de cette phase pratique, plusieurs techniques sont ap-
-pliquées pour améliorer les performances des réseaux neuronaux.
+les Generative Adversarial Network (GAN). Les modèles sont présentés théoriquement puis entraînés et évalués sur des bases de données telles que MNIST,
+CIFAR ou CELEB-A. Lors de cette phase pratique, plusieurs techniques sont appliquées pour améliorer les performances des réseaux neuronaux.
 
 ## Recognition
 * **Award:** Mention "Très Bien" - 59ème Concours National (Zürich, 2025)

@@ -14,7 +14,7 @@ CIFAR ou CELEB-A. Lors de cette phase pratique, plusieurs techniques sont appliq
 
 ## Recognition
 * **Award:** Mention "Très Bien" - 59ème Concours National (Zürich, 2025)
-* **Expert Commendation:** Recognized for a remarkable synthesis of mathematical foundations and practical deep learning implementations.
+* **Expert Commendation:** "Dans un contexte où l’intelligence artificielle est de plus en plus utilisée comme un processus automatisé et invisible, Monsieur Stragiotti a su mettre en lumière les principes fondamentaux du deep learning, en articulant les concepts mathématiques sous-jacents, leurs applications concrètes et leurs implémentations. Son approche intégrative fait de ce travail un support didactique complet. En effet, son travail témoigne d’une maîtrise remarquable de la synthèse entre mathématiques et programmation, ainsi que d’un intérêt profond à rendre ces connaissances accessibles et compréhensibles." *Dr. Sandrine Tornay*
 
 ## Model Architectures Detailed in the Paper
 1. **Multi-Layer Perceptron (MLP):** MNIST database
